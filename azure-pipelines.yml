@@ -11,7 +11,7 @@ pool:
 
 # Set variables
 variables:
-  directory: /
+  directory: project
   stage: development
   serviceConnection: uitp2021 
   appServiceName: uitp2021
